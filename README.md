@@ -18,12 +18,15 @@ Frontend:
 
 HTML
 CSS
+
 Backend:
 Java
 Spring Boot
 REST APIs
+
 Database:
 MySQL
+
 Tools:
 Git
 GitHub
