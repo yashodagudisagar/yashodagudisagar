@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋,I'm Yashodha B Gudisagar
 
-<!--
-**yashodagudisagar/yashodagudisagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I am a Backend Developer passionate about building using Java, Spring Boot and MySQL. I enjoy learning new technologies and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Learned: Spring Boot, Microservices
+🌱 Exploring: REST APIs
+💬 Ask Me About: Java, SQL, HTML, CSS
+📫 How to Reach Me: yashodagudisagar@gmail.com
+🛠️ Skills & Technologies
+Frontend:
+HTML
+CSS
+Backend:
+Java
+Spring Boot
+REST APIs
+Database:
+MySQL
+Tools:
+Git
+GitHub
+VS Code
+Eclipse
