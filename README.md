@@ -12,7 +12,7 @@ I am a Backend Developer passionate about building using Java, Spring Boot and M
 
 📫 How to Reach Me: yashodagudisagar@gmail.com
 
-🛠️ Skills & Technologies
+🛠️ Skills & Technologies:
 
 Frontend:
 
@@ -20,14 +20,17 @@ HTML,
 CSS
 
 Backend:
+
 Java,
 Spring Boot,
 REST APIs
 
 Database:
+
 MySQL
 
 Tools:
+
 Git,
 GitHub,
 VS Code,
