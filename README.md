@@ -16,19 +16,19 @@ I am a Backend Developer passionate about building using Java, Spring Boot and M
 
 Frontend:
 
-HTML
+HTML,
 CSS
 
 Backend:
-Java
-Spring Boot
+Java,
+Spring Boot,
 REST APIs
 
 Database:
 MySQL
 
 Tools:
-Git
-GitHub
-VS Code
+Git,
+GitHub,
+VS Code,
 Eclipse
